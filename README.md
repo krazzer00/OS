@@ -1,2 +1,3 @@
-# OS
-Laboratory work on the subject "Operating systems"
+	Петров Владимир Александрович ББСО-04-18
+		https://github.com/krazzer00/OS - ссылка на лабораторную работу №1
+	Лабораторная работа №2 в ZIP архиве.
